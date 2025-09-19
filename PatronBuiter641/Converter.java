@@ -1,4 +1,4 @@
-public class Converter {
+public class converter {
    private String document;
    public void makeLine(){
    }
